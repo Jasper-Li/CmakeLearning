@@ -1,0 +1,12 @@
+= CMake Tutorial
+:hardbreaks-option:
+
+My CMake learning exercises with https://cmake.org/cmake/help/v3.22/guide/tutorial/index.html[official tutorial].
+
+****
+OS: Win 10
+CMake version: 3.22
+Env variable: CMAKE_GENERATOR = Ninja
+Build Tool: Ninja
+C++ Compiler: Clang 13
+****
